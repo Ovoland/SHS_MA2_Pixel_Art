@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        ".",
+        "Background",
+        "Characters"
+    ],
+    "fileStates": {
+        "Background/LPC_Ancient_Greece_Architecture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Background/terrain_atlas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Characters/Main_character.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background/Atlas",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Characters/Main_character.tsx",
+        "Background/LPC_Ancient_Greece_Architecture.tsx",
+        "Background/terrain_atlas.tsx"
+    ],
+    "project": "SHS_map.tiled-project",
+    "recentFiles": [
+        "Background/terrain_atlas.tsx",
+        "Background/LPC_Ancient_Greece_Architecture.tsx",
+        "Characters/Main_character.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
