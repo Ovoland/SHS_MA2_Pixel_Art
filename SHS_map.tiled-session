@@ -3,39 +3,91 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map.tmx",
     "expandedProjectPaths": [
+        "Characters",
         ".",
-        "Background",
-        "Characters"
+        "Accessories",
+        "Background"
     ],
     "fileStates": {
-        "Background/LPC_Ancient_Greece_Architecture.tsx": {
+        "Accessories/Interior.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 1.5
+        },
+        "Background/LPC_Ancient_Greece_Architecture.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "Background/Outside Objects.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1.5
         },
         "Background/terrain_atlas.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "Characters/Main_character.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "Characters/horse.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Characters/photo_2024-04-29_01-17-09.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "Characters/Main_character.tsx": {
+        "Characters/troy_horse.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 1.5
+        },
+        "map.tmx": {
+            "expandedGroupLayers": [
+                54
+            ],
+            "scale": 0.33,
+            "selectedLayer": 42,
+            "viewCenter": {
+                "x": -2819.6969696969695,
+                "y": -2307.5757575757575
+            }
+        },
+        "map_destroyed.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 42,
+            "viewCenter": {
+                "x": -2242,
+                "y": -3286
+            }
         }
     },
-    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background/Stuff_and_background",
+    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "openFiles": [
+        "map.tmx",
         "Characters/Main_character.tsx",
         "Background/LPC_Ancient_Greece_Architecture.tsx",
-        "Background/terrain_atlas.tsx"
+        "Background/terrain_atlas.tsx",
+        "Background/Outside Objects.tsx",
+        "Accessories/Interior.tsx",
+        "Characters/troy_horse.tsx"
     ],
     "project": "SHS_map.tiled-project",
     "recentFiles": [
+        "map.tmx",
+        "Characters/troy_horse.tsx",
+        "Accessories/Interior.tsx",
+        "Background/Outside Objects.tsx",
         "Background/terrain_atlas.tsx",
         "Background/LPC_Ancient_Greece_Architecture.tsx",
-        "Characters/Main_character.tsx"
+        "Characters/Main_character.tsx",
+        "Characters/horse.tsx",
+        "Characters/photo_2024-04-29_01-17-09.tsx"
     ],
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.transparentColor": "#c0c0c0",
+    "tileset.useTransparentColor": true
 }
