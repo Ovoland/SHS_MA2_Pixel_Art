@@ -47,19 +47,41 @@
             "expandedGroupLayers": [
                 54
             ],
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 42,
             "viewCenter": {
-                "x": -2819.6969696969695,
-                "y": -2307.5757575757575
+                "x": -2035,
+                "y": -2369
             }
         },
         "map_destroyed.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 42,
+            "expandedGroupLayers": [
+                47
+            ],
+            "scale": 0.5,
+            "selectedLayer": 37,
             "viewCenter": {
-                "x": -2242,
-                "y": -3286
+                "x": -1919,
+                "y": -2621
+            }
+        },
+        "map_destructed.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": -2792.424242424242,
+                "y": -2004.5454545454545
+            }
+        },
+        "map_test.tmx": {
+            "scale": 0.323,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": -2806.5015479876156,
+                "y": -2803.405572755418
             }
         }
     },
@@ -77,6 +99,7 @@
     ],
     "project": "SHS_map.tiled-project",
     "recentFiles": [
+        "map_destroyed.tmx",
         "map.tmx",
         "Characters/troy_horse.tsx",
         "Accessories/Interior.tsx",
