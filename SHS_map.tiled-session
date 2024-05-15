@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map.tmx",
+    "activeFile": "map_destroyed.tmx",
     "expandedProjectPaths": [
-        "Characters",
-        ".",
         "Accessories",
+        ".",
+        "Characters",
         "Background"
     ],
     "fileStates": {
@@ -15,17 +15,29 @@
             "scaleInDock": 1,
             "scaleInEditor": 1.5
         },
+        "Accessories/fire_n_blood.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
         "Background/LPC_Ancient_Greece_Architecture.tsx": {
             "scaleInDock": 0.75,
             "scaleInEditor": 1.5
         },
-        "Background/Outside Objects.tsx": {
+        "Background/LPC_Ancient_Greece_Architecture_Broken_v2 (2).tsx": {
             "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Background/Outside Objects.tsx": {
+            "scaleInDock": 0.5,
             "scaleInEditor": 1.5
         },
         "Background/terrain_atlas.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1.5
+        },
+        "Characters/BabyBundles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Characters/Main_character.tsx": {
             "scaleInDock": 1.5,
@@ -50,19 +62,16 @@
             "scale": 0.5,
             "selectedLayer": 42,
             "viewCenter": {
-                "x": -2035,
-                "y": -2369
+                "x": -2809,
+                "y": -2805
             }
         },
         "map_destroyed.tmx": {
-            "expandedGroupLayers": [
-                47
-            ],
             "scale": 0.5,
-            "selectedLayer": 37,
+            "selectedLayer": 45,
             "viewCenter": {
-                "x": -1919,
-                "y": -2621
+                "x": -3181,
+                "y": -2235
             }
         },
         "map_destructed.tmx": {
@@ -85,30 +94,36 @@
             }
         }
     },
-    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background",
+    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Characters",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "openFiles": [
-        "map.tmx",
         "Characters/Main_character.tsx",
         "Background/LPC_Ancient_Greece_Architecture.tsx",
         "Background/terrain_atlas.tsx",
         "Background/Outside Objects.tsx",
         "Accessories/Interior.tsx",
-        "Characters/troy_horse.tsx"
+        "Characters/troy_horse.tsx",
+        "Characters/BabyBundles.tsx",
+        "Accessories/fire_n_blood.tsx",
+        "Background/LPC_Ancient_Greece_Architecture_Broken_v2 (2).tsx",
+        "map.tmx",
+        "map_destroyed.tmx"
     ],
     "project": "SHS_map.tiled-project",
     "recentFiles": [
-        "map_destroyed.tmx",
-        "map.tmx",
-        "Characters/troy_horse.tsx",
-        "Accessories/Interior.tsx",
-        "Background/Outside Objects.tsx",
-        "Background/terrain_atlas.tsx",
-        "Background/LPC_Ancient_Greece_Architecture.tsx",
         "Characters/Main_character.tsx",
-        "Characters/horse.tsx",
-        "Characters/photo_2024-04-29_01-17-09.tsx"
+        "Background/LPC_Ancient_Greece_Architecture.tsx",
+        "Background/terrain_atlas.tsx",
+        "Background/Outside Objects.tsx",
+        "Accessories/Interior.tsx",
+        "Characters/troy_horse.tsx",
+        "Characters/BabyBundles.tsx",
+        "Accessories/fire_n_blood.tsx",
+        "Background/LPC_Ancient_Greece_Architecture_Broken_v2 (2).tsx",
+        "map.tmx",
+        "map_destroyed.tmx",
+        "map_test.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.transparentColor": "#c0c0c0",
