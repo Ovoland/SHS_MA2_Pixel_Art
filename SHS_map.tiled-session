@@ -19,6 +19,11 @@
             "scaleInDock": 1.5,
             "scaleInEditor": 2
         },
+        "Accessories/signpost.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.015625
+        },
         "Accessories/spear.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -38,6 +43,9 @@
         "Background/map_destroyed.tsx": {
             "scaleInDock": 0.25,
             "scaleInEditor": 0.25
+        },
+        "Background/start_map_destroyed.tsx": {
+            "dynamicWrapping": false
         },
         "Background/terrain_atlas.tsx": {
             "scaleInDock": 1.5,
@@ -113,7 +121,7 @@
             }
         }
     },
-    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background",
+    "last.imagePath": "C:/Users/ovola/OneDrive/Bureau/Oceane/Etudes/EPFL/Master/MA2/Mythes_de_la_mediterane/Background/Accessories",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "openFiles": [
@@ -135,6 +143,7 @@
     ],
     "project": "SHS_map.tiled-project",
     "recentFiles": [
+        "Accessories/signpost.tsx",
         "Characters/horse_only.tsx",
         "Accessories/spear.tsx",
         "Characters/troy_horse.tsx",
@@ -145,10 +154,10 @@
         "Background/Outside Objects.tsx",
         "Accessories/Interior.tsx",
         "Characters/BabyBundles.tsx",
-        "Accessories/fire_n_blood.tsx",
-        "Background/LPC_Ancient_Greece_Architecture_Broken_v2 (2).tsx"
+        "Accessories/fire_n_blood.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.transparentColor": "#c0c0c0",
+    "tileset.type": 0,
     "tileset.useTransparentColor": true
 }
